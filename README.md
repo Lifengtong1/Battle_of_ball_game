@@ -1,2 +1,2 @@
 # My-projects
-<h1> Battle Of Ball Game</h1>
+<h2> Battle Of Ball Game</h2>
