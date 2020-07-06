@@ -1,3 +1,4 @@
+# Appears with mouse click
 void setup() {
   size(1280,720);
   drawPig(0, 0);
